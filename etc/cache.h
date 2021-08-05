@@ -25,4 +25,4 @@ cd $tx
     
     
     cd $tx
-    rm -rf cache
+    mv cache etc
