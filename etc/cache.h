@@ -25,4 +25,4 @@ cd $tx
     
     
     cd $tx
-    mv cache etc
+    mv cache etc/cache.h
